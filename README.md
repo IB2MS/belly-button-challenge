@@ -23,7 +23,7 @@ When an ID is chosen from the dropdown menu, will be a  person's demographic inf
 
 ![Images/dropmenu.png](Images/dropmenu.png)
 </details>
-# Visualisation
+##  Visualisation
 
 ### Top 10 Bacterial Species (OTUs)
 
