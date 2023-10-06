@@ -3,7 +3,7 @@
 
 ## Background
 
-The doal of this project buuld an interactive dashboard  using `JavaScript` and `Plotly.js` along with HTML to visualize how many microbes inhabit human navels.  Based on The data that is used by the program is contained in a JSON file provided by   <a href="http://robdunnlab.com/projects/belly-button-biodiversity"> The Belly Button Biodiversity Project </a>. 
+The goal of this project is to buuld an interactive dashboard  using `JavaScript` and `Plotly.js` along with HTML, and  visualize how many microbes inhabit human navels.  Based on The data that is used by the program is contained in a JSON file provided by   <a href="http://robdunnlab.com/projects/belly-button-biodiversity"> The Belly Button Biodiversity Project </a>. 
 ## Perpuse
 Interactive dashboard and charts display bacteria that live inside the human body. By selecting an id number in a drop down list, the id metadata will be displayed in a div element and the Top_10 bacterial samples will be displayed in a bar chart and bubble chart. 
 
