@@ -8,11 +8,11 @@ The doal of this project buuld an interactive dashboard  using `JavaScript` and 
 Interactive dashboard and charts display bacteria that live inside the human body. By selecting an id number in a drop down list, the id metadata will be displayed in a div element and the Top_10 bacterial samples will be displayed in a bar chart and bubble chart. 
 
 ## Deployed website:
-Visit the Plotly Bellybutton Biodiversity dashboard [Click me here](https:// /).
+Visit the Plotly Bellybutton Biodiversity dashboard [Click here]([https://](https://ib2ms.github.io/belly-button-challenge/)/).
 
 
 
-## Usind dashboard
+## Using dashboard
 Select an ID number from the dropdown menu to populate the demographic information and display visualizations.
 
 <details open>
